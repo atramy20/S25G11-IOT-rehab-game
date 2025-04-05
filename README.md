@@ -1,4 +1,4 @@
-## XXXXX Project by :  
+## Rehab Game Project by :  Ramy Abu Tareef, Razi Hussein, Jamelih Khirbawe
   
 ## Details about the project
  
